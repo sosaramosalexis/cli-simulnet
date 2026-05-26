@@ -10,7 +10,7 @@ irm https://raw.githubusercontent.com/alsosram/cli-simulnet/master/Fix-Simultane
 
 # Restore defaults (download first to pass -Restore)
 curl.exe -fsSL https://raw.githubusercontent.com/alsosram/cli-simulnet/master/Fix-SimultaneousConnections.ps1 -o fix.ps1
-powershell -File fix.ps1 -Restore
+powershell -ExecutionPolicy Bypass -File fix.ps1 -Restore
 ```
 
 Or download and run:
