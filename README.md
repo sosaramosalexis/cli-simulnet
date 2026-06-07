@@ -10,18 +10,18 @@ Fix simultaneous Ethernet + WiFi connections on Windows.
 
 ```powershell
 # Fix (enable both connections simultaneously)
-irm https://raw.githubusercontent.com/sosramalex/cli-simulnet/master/Fix-SimultaneousConnections.ps1 | iex
+irm https://raw.githubusercontent.com/sosaramosalexis/cli-simulnet/master/Fix-SimultaneousConnections.ps1 | iex
 ```
 ```
 # Restore defaults (download first to pass -Restore)
-curl.exe -fsSL https://raw.githubusercontent.com/sosramalex/cli-simulnet/master/Fix-SimultaneousConnections.ps1 -o fix.ps1
+curl.exe -fsSL https://raw.githubusercontent.com/sosaramosalexis/cli-simulnet/master/Fix-SimultaneousConnections.ps1 -o fix.ps1
 powershell -ExecutionPolicy Bypass -File fix.ps1 -Restore
 ```
 
 ## Or download and run:
 
 ```powershell
-curl.exe -fsSL https://raw.githubusercontent.com/sosramalex/cli-simulnet/master/Fix-SimultaneousConnections.ps1 -o fix.ps1
+curl.exe -fsSL https://raw.githubusercontent.com/sosaramosalexis/cli-simulnet/master/Fix-SimultaneousConnections.ps1 -o fix.ps1
 powershell -File fix.ps1
 ```
 
