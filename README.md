@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/powershell-blue?logo=powershell&style=flat-square" alt="PowerShell">
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-sosaramosalexis/cli-simulnet-181717?logo=github)](https://github.com/sosaramosalexis/cli-simulnet)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell)]()
+[![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
 
 # cli-simulnet
 
