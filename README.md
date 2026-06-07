@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/powershell-blue?logo=powershell&style=flat-square" alt="PowerShell">
+</p>
+
 # cli-simulnet
 
 Fix simultaneous Ethernet + WiFi connections on Windows.
