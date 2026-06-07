@@ -3,7 +3,7 @@
   <!-- Replace src with your 784×1168 logo image (displayed at 90px wide) -->
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sosaramosalexis/cli-simulnet-181717?logo=github)](https://github.com/sosaramosalexis/cli-simulnet)
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=sosaramosalexis%2Fcli-simulnet&color=181717&logo=github)](https://github.com/sosaramosalexis/cli-simulnet)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell)]()
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
